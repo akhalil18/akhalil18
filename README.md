@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman Khalil
-- 👀 I’m interested in mobile app development and flutter 
+- 👀 I’m interested in mobile apps development and flutter 
 
 - LinkedIn: https://www.linkedin.com/in/akhalil18/
 
